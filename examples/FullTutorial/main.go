@@ -6,7 +6,7 @@ import (
 	"github.com/ungerik/go-start/debug"
 	"github.com/ungerik/go-start/errs"
 	"github.com/ungerik/go-start/media"
-	"github.com/ungerik/go-start/media/mongomedia"
+	"github.com/ungerik/go-start/mongomedia"
 	"github.com/ungerik/go-start/mongo"
 	"github.com/ungerik/go-start/user"
 	"github.com/ungerik/go-start/view"
